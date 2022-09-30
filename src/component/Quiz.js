@@ -31,6 +31,7 @@ const Quiz = ()=>{
         }else{
             setCurrent(current+1)
         }
+       
     }
     
     return(
